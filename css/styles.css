@@ -1,0 +1,199 @@
+body {
+    background-color: #3B8BEB;
+    margin: 0%;
+}
+.container {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 350px;
+}
+h1 {
+    color: white;
+    font-size: 3rem;
+    font-family: 'Grape Nuts', cursive ,arial, sans-serif;
+    padding-bottom: 0%;
+}
+#h2style {
+    color: white;
+    font-family: 'Grape Nuts', cursive ,arial, sans-serif;
+    font-size: 1.5rem;
+    padding-top: 0;
+}
+.cloud1 {
+    display: inline-block;
+    width: 12%;
+    position: absolute;
+    padding-left: 37rem;
+    padding-top: 5rem;
+}
+.cloud2 {
+    display: inline-block;
+    width: 15%;
+    position: absolute;
+    padding-left: 10rem;
+    padding-top: 17rem;
+}
+.cloud3 {
+    display: inline-block;
+    width: 12%;
+    position: absolute;
+    padding-left: 51rem;
+    padding-top: 17rem;
+
+}
+.cat {
+    display: inline-block;
+    width: 17%;
+    padding-left: 35rem;
+    padding-top: 31rem;
+}
+.snowimg{
+    width: 26%;
+}
+.snowman{
+    display: inline-block;
+    position:relative;
+    left: 11rem;
+    bottom: 10rem;
+}
+.treeimg{
+    width: 50%;
+}
+.tree{
+    display: inline-block;
+    position:relative;
+    left: 20rem;
+    bottom: 26rem;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 8px;
+    border-color: white;
+    width: 7%;
+}
+.theprofile{
+    width: 40%;
+}
+.profile_position{
+    display: inline-block;
+    position: relative;
+    bottom: 10rem;
+    left: 11rem;
+    text-align: center;
+    color: white;
+}
+.hrposition{
+    display: inline-block;
+    position:relative;
+    bottom: 3rem;
+    left: -8rem;
+}
+#h2position{
+    display: inline-block;
+    position: relative;
+    left: -14rem;
+    bottom: -2rem;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+.noimage{
+    border-radius: 50%;
+    width: 20%;
+    float: left;
+}
+.skill1{
+    color: #E7E3D4;
+    padding-top: 5rem;
+    line-height: 2;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    color: #C4DBF6;
+    font-family: 'Grape Nuts', cursive ,arial, sans-serif;
+    font-size: 2rem;
+}
+h3 {
+    color: #C4DBF6;
+    font-family: 'Bree Serif', serif;
+}
+.skill2{
+    color: #E7E3D4;
+    padding-top: 5rem;
+    line-height: 2;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.noimage2{
+    margin-top: 2rem;
+    border-radius: 50%;
+    width: 20%;
+    float: right;
+}
+.hrposition2{
+    position: relative;
+    left: -2rem;
+    bottom:-3rem;
+}
+.touchposition{
+    text-align: center;
+    color: #E7E3D4;
+    padding-top: 5rem;
+    line-height: 2;
+    width:50%;
+    margin-left: 14rem;
+    margin-right: auto
+}
+button {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
+footer{
+    text-align: center;
+    padding-top: 3rem;    
+}
+.btn {
+    background: #7da1ba;
+    background-image: -webkit-linear-gradient(top, #7da1ba, #14a5ff);
+    background-image: -moz-linear-gradient(top, #7da1ba, #14a5ff);
+    background-image: -ms-linear-gradient(top, #7da1ba, #14a5ff);
+    background-image: -o-linear-gradient(top, #7da1ba, #14a5ff);
+    background-image: linear-gradient(to bottom, #7da1ba, #14a5ff);
+    -webkit-border-radius: 58;
+    -moz-border-radius: 58;
+    border-radius: 58px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #07a664);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #07a664);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #07a664);
+    background-image: -o-linear-gradient(top, #3cb0fd, #07a664);
+    background-image: linear-gradient(to bottom, #3cb0fd, #07a664);
+    text-decoration: none;
+  }
+  footer {
+      
+      margin: 2rem 0 2rem 0;
+      word-spacing: 1.5rem;
+      position: relative;
+      left: -1rem;
+  }
+a {
+    color: #E7E3D4;
+    text-decoration: none;
+    font-weight: 200;
+}
+a:hover {
+    color: brown;
+}
